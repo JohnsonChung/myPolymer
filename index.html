@@ -4,16 +4,31 @@
 <head>
     <title></title>
     <link rel="import" href="bower_components/polymer/polymer.html">
-    <link rel="import" href="bower_components/core-component-page/core-component-page.html"></link>
-    
-    <link rel="import" href="https://gist.githubusercontent.com/JohnsonChung/678d4739f31aa72c517e/raw/cb09487135a6f9fb42d4e93c64d09094f27a6293/komica-post.html"></link>
+    <link rel="import" href="bower_components/core-component-page/core-component-page.html">
+    <link rel="import" href="bower_components/paper-element/paper-shadow/paper-shadow.html">
+
 </head>
 
 <body>
+        <link rel="import" href="https://gist.githubusercontent.com/JohnsonChung/678d4739f31aa72c517e/raw/cb09487135a6f9fb42d4e93c64d09094f27a6293/komica-post.html"></link>
 
-	<komica-post></komica-post>
-	<komica-post></komica-post>
-	<komica-post></komica-post>
+            <komica-post></komica-post>
+            <komica-post></komica-post>
+            <komica-post></komica-post>
+       <core-item id="core_item" icon="settings" label="Item" horizontal center layout></core-item>
+
+
+<style>.card { display: inline-block;
+background: white;
+box-sizing: border-box;
+width: 100px;
+height: 100px;
+margin: 16px;
+padding: 16px;
+border-radius: 2px;}</style>
+<paper-shadow class="card" z="3" animated="">
+      z = 2
+    </paper-shadow>
 </body>
 
 </html>

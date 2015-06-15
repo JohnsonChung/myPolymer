@@ -1,0 +1,703 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ap",
+				"app-manager-smartphone.png	w:316 h:320"
+			],
+			[
+				"animate",
+				"animate-lesshat.less"
+			],
+			[
+				"a",
+				"Available-for-Google-Chrome.png	w:161 h:40"
+			],
+			[
+				"vi",
+				"vis	visibility"
+			],
+			[
+				"web",
+				"web-animations-css-animation-extension.js"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"ai",
+				"aic:i	animation-iteration-count:infinite"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"vender",
+				"vender/"
+			],
+			[
+				"dt",
+				"d:tbr	display:table-row"
+			],
+			[
+				"co",
+				"console-error.less"
+			],
+			[
+				"com",
+				"combine-console.less"
+			],
+			[
+				"con",
+				"console-application.less"
+			],
+			[
+				"u",
+				"utility.less"
+			],
+			[
+				"appl",
+				"application-form-setting.less"
+			],
+			[
+				"less",
+				"lesshat/"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"tbc",
+				"d-tbcl	display: table-column;"
+			],
+			[
+				"boot",
+				"bootstrap-switch.min.css"
+			],
+			[
+				"font",
+				"font-awesome.min.css"
+			],
+			[
+				"3d",
+				"3d-phone.png	w:373 h:199"
+			],
+			[
+				"h",
+				"hei	height"
+			],
+			[
+				"appcu",
+				"app-customer-media.less"
+			],
+			[
+				"app",
+				"app-customer.less"
+			],
+			[
+				"cur",
+				"cur:a	cursor:auto"
+			],
+			[
+				"bw",
+				"border-width"
+			],
+			[
+				"list-group",
+				"list-group-item"
+			],
+			[
+				"n",
+				"nx-gnicon.less"
+			],
+			[
+				"script",
+				"script	HTML - Script"
+			],
+			[
+				"jq",
+				"jquery.spin.js"
+			],
+			[
+				"le",
+				"less/"
+			],
+			[
+				"blue",
+				"border-bottom-left-radius"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bg",
+				"bga-f	background-attachment: fixed;"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"hol",
+				"holder_js-snippet	Holder.js syntax helper snippet. Holder.js (https://github.com/imsky/holder) is the best tool for making placeholder images."
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"bu",
+				"button	Tag"
+			],
+			[
+				"bower",
+				"bower_components/"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"doctype",
+				"doctype	HTML - HTML foundation"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"import",
+				"Snippet: import paper-element"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"snippt",
+				"Snippet: template"
+			],
+			[
+				"snippet do",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"placeholder",
+				"Snippet: custom [[+placeholder]]"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"intall",
+				"Bower: Install"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"plig",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"bower",
+				"Bower: Install dependencies"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"place hol",
+				"Snippet: Holder.js syntax helper snippet. Holder.js (https://github.com/imsky/holder) is the best tool for making placeholder images."
+			],
+			[
+				"varia",
+				"List stylesheet variables"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"script",
+				"Snippet: HTML - Script"
+			],
+			[
+				"bs3-gly",
+				"Snippet: bs3-glyphicon"
+			],
+			[
+				"bs3-button",
+				"Snippet: bs3-button"
+			],
+			[
+				"variable",
+				"List stylesheet variables"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1072.0
+	},
+	"console":
+	{
+		"height": 301.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components"
+	],
+	"file_history":
+	[
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/index.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/components/bower_components/core-list/demos/demo-grid-grouped.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/googleWebDesginer/HelloWorld/.gitignore",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-landing/bower.json",
+		"/C/Users/Kamimusuhi/Documents/GitHub/googleWebDesginer/HelloWorld/bower.json",
+		"/C/Users/Kamimusuhi/Documents/GitHub/googleWebDesginer/HelloWorld/bower_components/core-component-page/core-component-page.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/googleWebDesginer/HelloWorld/bower_components/core-component-page/demo.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/googleWebDesginer/HelloWorld/bower_components/core-component-page/bower.json",
+		"/C/Users/Kamimusuhi/Documents/GitHub/googleWebDesginer/HelloWorld/bower_components/webcomponentsjs/bower.json",
+		"/C/Users/Kamimusuhi/Documents/GitHub/googleWebDesginer/HelloWorld/bower_components/paper-element/bower.json",
+		"/C/Users/Kamimusuhi/Documents/GitHub/googleWebDesginer/HelloWorld/bower_components/paper-element/bower.js",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/js/json-content-posts.json",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/paper-element/paper-shadow/paper-shadow.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower.json",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/polymer/layout.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/components/bower_components/core-list/demos/demo-flickr-grid-grouped.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/core-list/demos/demo-debug.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/.gitignore",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/.gitattributes",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/core-component-page/index.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/core-component-page/demo.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/core-component-page/core-component-page.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/polymer/index.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/polymer/polymer.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/polymer/bower.json",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/bower_components/polymer/polymer.js",
+		"/C/Users/Kamimusuhi/Documents/GitHub/myPolymer/Gruntfile.js",
+		"/C/Users/Kamimusuhi/Documents/GitHub/hello-world-element/Gruntfile.js",
+		"/C/Users/Kamimusuhi/Documents/GitHub/hello-world-element/index.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-landing/css/section.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/combine-app-kiosk.css",
+		"/C/Users/Kamimusuhi/AppData/Roaming/Brackets/extensions/user/quick-require/node_modules/npm/node_modules/node-gyp/gyp/tools/Xcode/Specifications/gyp.pbfilespec",
+		"/C/Users/Kamimusuhi/AppData/Roaming/PotPlayerMini/DvdBM.bmk",
+		"/C/Users/Kamimusuhi/AppData/Roaming/PotPlayerMini64/Playlist/PotPlayerMini64.dpl",
+		"/C/Users/Kamimusuhi/AppData/Roaming/PotPlayer/Playlist/PotPlayer.dpl",
+		"/C/Users/Kamimusuhi/AppData/Roaming/PotPlayerMini/Playlist/PotPlayerMini.dpl",
+		"/C/Program Files (x86)/PotPlayer/Playlist/PotPlayerMini.dpl",
+		"/C/Users/Kamimusuhi/AppData/Local/Temp/Rar$DIa0.308/bootstrap-theme.css",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-landing/css/modules/bounce.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-landing/css/animate.less",
+		"/C/Users/Kamimusuhi/Desktop/image search myway/chrome_background_compiled.js",
+		"/C/Users/Kamimusuhi/AppData/Local/Google/Chrome/User Data -beta-bak/Default/Extensions/dajedkncpodkggklbegccjpmnglmnflm/1.5.1_0/chrome_background_compiled.js",
+		"/C/Users/Kamimusuhi/AppData/Local/Google/Chrome/User Data/Default/Extensions/dajedkncpodkggklbegccjpmnglmnflm/1.5.1_0/chrome_background_compiled.js",
+		"/C/Users/Kamimusuhi/AppData/Local/Google/Chrome/User Data/Default/Extensions/dajedkncpodkggklbegccjpmnglmnflm/1.5.1_0/chrome_sbi_compiled.js",
+		"/C/Users/Kamimusuhi/AppData/Local/Google/Chrome/User Data -beta-bak/Default/Extensions/dajedkncpodkggklbegccjpmnglmnflm/1.5.1_0/options.js",
+		"/C/Users/Kamimusuhi/AppData/Local/Google/Chrome/User Data -beta-bak/Default/Extensions/dajedkncpodkggklbegccjpmnglmnflm/1.5.1_0/chrome_sbi_compiled.js",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-landing/css/nav.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-landing/index.html",
+		"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-landing/css/lab.less",
+		"/C/Users/Kamimusuhi/AppData/Local/Temp/Rar$DIa0.871/component.css",
+		"/C/Users/Kamimusuhi/AppData/Local/Temp/Rar$DIa0.289/demo.css",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-landing/css/style.css",
+		"/C/Users/Kamimusuhi/AppData/Local/Temp/Rar$DIa0.106/demo.css",
+		"/C/Users/Kamimusuhi/AppData/Local/Temp/Rar$DIa0.713/demo.css",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/console-application.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-locales/ja_JP/LC_MESSAGES/messages.po",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/vender-extention.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/index-template-load.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/app-kiosk-closed.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/template/template-customer-6.html",
+		"/R/PCGame/Alicesoft/Escaleter/AliceStart.ini",
+		"/R/PCGame/illusion/Jinkou/Unlimit.bat",
+		"/R/PCGame/Kancolle/KanColleViewer ver.2.6/KanColleViewer.exe.config",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/js/template-load.js",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/combine-console.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/app-monitor.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/app-monitor.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/js/web-animations-css-animation-extension.js",
+		"/C/Users/Kamimusuhi/Desktop/1408723520326.jpg",
+		"/C/Users/Kamimusuhi/Desktop/LV3.txt",
+		"/C/Users/Kamimusuhi/Desktop/1408723520326_2.zip",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/tab-waiting-customer.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/scss/ionic.app.scss",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/css/style.css",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/tab-waiting.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/tab-called.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/index.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css-lab.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/animate.css",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/app-kiosk-template.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/console-checker-setting-form.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/template/template-7.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/app-checker.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/template/template-6.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/utility.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/app-images.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css-lab-60fps-runningCircle.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/app-kiosk-font.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/template/template-customer-7-final-remind.html",
+		"/C/Users/Kamimusuhi/Downloads/ohayo_01.svg",
+		"/C/Users/Kamimusuhi/Downloads/ohayo_02.svg",
+		"/C/Users/Kamimusuhi/Downloads/ohayo_03.svg",
+		"/C/Users/Kamimusuhi/Downloads/ohayo_04.svg",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/card-signature.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/app-kiosk-media.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/combine-app-kiosk.less",
+		"/C/Users/Kamimusuhi/Desktop/Gmail Custom Column.js",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/webkit-scroller.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/nx-gnicon.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/nx-component-custom.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/console-style.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban/css/app-kiosk-style.less",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css/app-kiosk-style.less",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/app-kiosk-template.html",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css-lab.html",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css/lab.less",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css/utility.less",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css/card-signature.less",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css/app-monitor.less",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/app-monitor.html",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css/app-checker.less",
+		"/C/wamp/bin/apache/apache2.4.9/conf/original/extra/httpd-vhosts.conf",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/scripts/onlineOffline.php",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/gulpfile.js",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/.gitignore",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/tab-called-customer.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/nav-buttons-right.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/tab-missed.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/tab-missed-customer.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/tabs.html",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css/console-kiosk-setting-form.less",
+		"/C/Users/Kamimusuhi/Desktop/[APP]Line-9/APPLICATION/css/nx-component-custom.less",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/modal-customer-edit.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/templates/friend-detail.html",
+		"/C/Users/Kamimusuhi/Documents/GitHub/junban-handheld/www/lib/ionic/scss/_variables.scss"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"grid",
+			"groupModel",
+			"block",
+			"カスタマイズ",
+			"section-panel",
+			";	",
+			"dia",
+			"bounce",
+			"dia",
+			"dialog",
+			"section",
+			"45px 60px",
+			"CSSTableGenerator",
+			"比較",
+			"safe",
+			"p(",
+			"image",
+			"google",
+			"image",
+			"google",
+			"g",
+			"google",
+			"navbar",
+			"section-content",
+			"登録",
+			"row-bottom",
+			"        <div class=\"row section2\">\n            section2\n            <div class=\"col-md-12\">\n                <h2>\n                    &nbsp\n                    <img src=\"img/jyunban-favi-45.ico\" alt=\"\">&nbsp受付画面\n                    <span class=\"text-blur\">：Kiosk</span>\n                </h2>\n                <p>\n                    <strong>市販タブレットでOK</strong>\n                    <br>お客様ご来店時、最初に操作いただくのが受付画面（Kiosk）です。\n                    <br>10インチ以上のモニターのAndroidまたはWindowsタブレットで、 簡単に始められます。\n                    <br>WIFI環境だけご用意ください。高価な専用端末や面倒な配線は不要です。\n                </p>\n            </div>\n            <div class=\"col-md-12\">\n                <div class=\"row\">\n                    <div class=\"col-md-6\">\n                        <div class=\"col-panel panel-2-1 text-center\">\n                            <div class=\"image image-photo-kiosk\"></div>\n                            <h3>スタンド設置型</h3>\n                        </div>\n                    </div>\n                    <div class=\"col-md-6\">\n                        <div class=\"col-panel panel-2-2 text-center\">\n                            <div class=\"image image-photo-counter\"></div>\n                            <h3>カウンターの上</h3>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-md-12\">\n                <div class=\"col-panel panel-2-3\">\n                    <div class=\"row\">\n                        <div class=\"col-md-6\">\n                            <div class=\"image image-photo-device\"></div>\n                        </div>\n                        <div class=\"col-md-6\">\n                            <h3>2種類の画面サイズ</h3>\n                            <p>Kioskはモニターの大きさにより2種類の画面があります。\n                                <br>フルHD（通常21インチ以上）では、画面左側に順番表示が可能です。</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>",
+			"\">\n",
+			"                <",
+			"    <nav class=\"navbar\">\n        <div class=\"nav-smint smint\">\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <span class=\"pull-left brand\" href=\"\">\n                <div class=\"image image-jun-wlogo image-jun-wlogo-sm\"></div>\n            </span>\n            <ul class=\"nav inner\">\n                <li>\n                    <a href=\"#section-hero\" id=\"section-hero\">section-hero</a>\n                </li>\n                <li>\n                    <a href=\"#section-start\" id=\"section1\">section1</a>\n                </li>\n                <li>\n                    <a href=\"#section2\" id=\"section2\">section2</a>\n                </li>\n                <li>\n                    <a href=\"#section3\" id=\"section3\">section3</a>\n                </li>\n                <li>\n                    <a href=\"#section4\" id=\"section4\">section4</a>\n                </li>\n                <li>\n                    <a href=\"#section5\" id=\"section5\">section5</a>\n                </li>\n            </ul>\n        </div>\n    </nav>",
+			"\">\n",
+			"h3",
+			">\n",
+			"\">\n",
+			"=\"\">\n",
+			"lesshat",
+			"=======================================\n",
+			"\">\n",
+			"app-switch",
+			"}\n",
+			" \n",
+			"zoomOut",
+			"body",
+			"\n        &:after {\n            outline: 1px solid red;\n        };",
+			">\n",
+			"nav",
+			"';\n",
+			"transition",
+			"\"\";",
+			"map",
+			"background-size",
+			"#fff",
+			"white",
+			"border",
+			"6px",
+			"gra",
+			"6",
+			"width",
+			"margin",
+			"background",
+			"-16px",
+			"trigger",
+			"'",
+			"trigger",
+			"border",
+			"border-left",
+			"border",
+			"white",
+			"border",
+			"border-left",
+			"active",
+			"fa",
+			"child",
+			"fa",
+			"files",
+			"Photoshop",
+			"a ",
+			"active",
+			"#ddd",
+			"webkit",
+			"transition",
+			"white",
+			"#aaa",
+			"@gn-bg-color",
+			"white",
+			"gn-le",
+			"left menu",
+			"left",
+			"//",
+			"translate",
+			".signature",
+			"toggler",
+			"toggle",
+			"toggler",
+			"signature",
+			"radius",
+			"Deny",
+			"vertical",
+			"Vertical",
+			"vertical",
+			"brand-primary",
+			"nav",
+			"$positive",
+			"#4a87ee",
+			"127.0.0.1",
+			"brand-pri",
+			"color",
+			"top:",
+			"top: 40",
+			"top: 0",
+			"extarea",
+			"persudo-signarea",
+			"persudo-sign",
+			"persudo ",
+			"height",
+			"    \n",
+			"zoomOut",
+			"label.serial",
+			"...",
+			"line-he",
+			"2px",
+			"<",
+			");\n",
+			"tab",
+			"\"\">",
+			"radius",
+			"label",
+			"md-6"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "myPolymer.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Kamimusuhi\\Documents\\GitHub\\junban-landing\\junban-landing.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
